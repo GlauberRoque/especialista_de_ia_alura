@@ -1,0 +1,10 @@
+O que é RPA e quais são seus principais benefícios para as empresas?
+Quais tipos de processos são mais adequados para automação com RPA?
+Qual a diferença entre RPA atendido (attended) e não atendido (unattended)?
+Quais são os principais desafios na implementação de uma solução de RPA?
+Como o RPA se diferencia de outras formas de automação, como scripts ou macros?
+Quais ferramentas de RPA são mais usadas hoje em dia?
+Como você lida com exceções e erros em um processo automatizado com RPA?
+Quais boas práticas você recomenda ao desenvolver um robô de RPA?
+Como garantir a segurança e conformidade em processos automatizados com RPA?
+Dá para integrar RPA com APIs ou sistemas como SAP, SharePoint ou bancos de dados? 

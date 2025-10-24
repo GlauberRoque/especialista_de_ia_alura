@@ -1,0 +1,10 @@
+E-mail 1: **Compartilhando novidades e informações interessantes sobre tecnologia da Equipe Tecnologia.** 
+E-mail 2: **Compartilhando novidades e informações interessantes sobre saúde da Equipe Saúde.** 
+E-mail 3: **Compartilhando novidades e informações interessantes sobre educação da Equipe Educação.** 
+E-mail 4: **Compartilhando novidades e informações interessantes sobre esportes da Equipe Esportes.** 
+E-mail 5: **Compartilhando novidades e informações interessantes sobre finanças da Equipe Finanças.** 
+E-mail 6: **Compartilhando novidades e informações interessantes sobre viagens da Equipe Viagens.** 
+E-mail 7: **Compartilhando novidades e informações interessantes sobre culinária da Equipe Culinária.** 
+E-mail 8: **Compartilhando novidades e informações interessantes sobre moda da Equipe Moda.** 
+E-mail 9: **Compartilhando novidades e informações interessantes sobre música da Equipe Música.** 
+E-mail 10: **Compartilhando novidades e informações interessantes sobre cinema da Equipe Cinema.** 
