@@ -3,7 +3,7 @@ import chardet
 import os
 import google.generativeai as genai # pip install google-generative-ai
 
-genai.configure(api_key="AIzaSyDxlO9iILrbpAFwTapaCYM-wHQCd2KFlR8") # Substitua pela sua chave de API
+genai.configure(api_key="************************") # Substitua pela sua chave de API
 model = genai.GenerativeModel("gemini-2.5-flash")# Definindo o modelo da IA
 chat = model.start_chat() # Inicializando um chat
 
@@ -55,4 +55,5 @@ df_perguntas_e_respostas.to_csv("Arquivo/resposta.csv", index=False, encoding='u
 #print(df_perguntas_e_respostas)
 
 # LER O ARQUIVO .CSV USANDO PANDAS.
+
         
