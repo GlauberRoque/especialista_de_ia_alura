@@ -10,7 +10,7 @@ DESAFIO 2
 3- adicionar uma nava coluna com essa classificação ao DataFrame
 '''
 #Configurando a LLM
-genai.configure(api_key="AIzaSyDxlO9iILrbpAFwTapaCYM-wHQCd2KFlR8") # Substitua pela sua chave de API
+genai.configure(api_key="***********************") # Substitua pela sua chave de API
 model = genai.GenerativeModel("gemini-2.5-flash")# Definindo o modelo da IA
 chat = model.start_chat() # Inicializando um chat
 
@@ -34,4 +34,5 @@ for review_numero, resenha in enumerate(coluna_de_reviews):
     #print(f'Resenha {review_numero}: {resenha} --> Sentimento: {resposta.text}')
     
 #Adicionando nova COLUNA
+
 df_reviews['Análise de Sentimentos'] = lista_analise_sentimentos
