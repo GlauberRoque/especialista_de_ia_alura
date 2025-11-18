@@ -1,7 +1,7 @@
 import os
 import google.generativeai as genai # pip install google-generative-ai
 
-genai.configure(api_key="AIzaSyDxlO9iILrbpAFwTapaCYM-wHQCd2KFlR8") # Substitua pela sua chave de API
+genai.configure(api_key="***********************") # Substitua pela sua chave de API
 
 model = genai.GenerativeModel("gemini-2.5-flash")
 chat = model.start_chat()
@@ -15,5 +15,6 @@ while prompt != "sair":
     prompt = input("Você: ")
     
 print("----- Conversa encerrada -----")
+
 
 
